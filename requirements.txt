@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-generativeai
+twilio
+weasyprint
+jinja2
+httpx
+python-dotenv
+python-multipart
